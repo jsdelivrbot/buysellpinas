@@ -70,7 +70,7 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-module.exports = "It works from content.js.";
+module.exports = "This is processed by webpack";
 
 /***/ }),
 /* 1 */
@@ -120,7 +120,7 @@ exports = module.exports = __webpack_require__(4)(undefined);
 
 
 // module
-exports.push([module.i, "body {\r\n    background: gray;\r\n}", ""]);
+exports.push([module.i, "body {\r\n    background: pink;\r\n}", ""]);
 
 // exports
 
