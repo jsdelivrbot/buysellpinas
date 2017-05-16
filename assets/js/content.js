@@ -1,1 +1,1 @@
-module.exports = "This is processed by webpack";
+module.exports = "It works from content.js.";
