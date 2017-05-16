@@ -1,0 +1,29 @@
+{
+  "name": "buysellpinas-frontend",
+  "version": "1.0.0",
+  "description": "Frontend website for buysellpinas",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "bulma": "^0.4.1",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5",
+    "css-loader": "^0.28.1",
+    "style-loader": "^0.17.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuySellPinas/buysellpinas-frontend.git"
+  },
+  "author": "Nico Sevilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuySellPinas/buysellpinas-frontend/issues"
+  },
+  "homepage": "https://github.com/BuySellPinas/buysellpinas-frontend#readme"
+}
