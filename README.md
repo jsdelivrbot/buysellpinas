@@ -18,4 +18,4 @@ sudo npm install
 webpack-dev-server
 ```
 
-Open localhost:8080 on your browser
+Open http://localhost:8080/ on your browser
