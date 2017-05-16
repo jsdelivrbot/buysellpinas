@@ -1,8 +1,8 @@
 module.exports = {
-    entry: "./assets/js/entry.js",
+    entry: "./resources/assets/js/entry.js",
     output: {
         path: __dirname,
-        filename: "./assets/js/bundle.js"
+        filename: "./resources/assets/js/bundle.js"
     },
     module: {
        rules: [{
